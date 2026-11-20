@@ -1,14 +1,50 @@
 {
  "budgets_used": {
-  "match@baozimh@2026-11-21": 4
+  "match@baozimh@2026-11-21": 40
  },
  "last_scan": {
   "match": {
    "baozimh": {
-    "https://rawkuma.net/manga/tousan-wa-kensei-kaasan-wa-kenshin-boku-wa-ochinpo-chanbara-master/": 1795199592.849662,
-    "https://rawkuma.net/manga/bastard/": 1795199598.724669,
-    "https://rawkuma.net/manga/kuro-no-shoukanshi/": 1795199607.350564,
-    "https://rawkuma.net/manga/%e6%a1%9c%e6%b2%a2%e3%81%af%e5%9c%b0%e7%8d%84%e3%81%b8%e8%a1%8c%e3%81%a3%e3%81%9f/": 1795199612.489825
+    "https://rawkuma.net/manga/tousan-wa-kensei-kaasan-wa-kenshin-boku-wa-ochinpo-chanbara-master/": 1795200407.928331,
+    "https://rawkuma.net/manga/bastard/": 1795200414.278255,
+    "https://rawkuma.net/manga/kuro-no-shoukanshi/": 1795200422.309488,
+    "https://rawkuma.net/manga/%e6%a1%9c%e6%b2%a2%e3%81%af%e5%9c%b0%e7%8d%84%e3%81%b8%e8%a1%8c%e3%81%a3%e3%81%9f/": 1795200428.332886,
+    "https://rawkuma.net/manga/koudou-ni-hattatsu-shita-igaku-wa-mahou-to-kubetsu-ga-tsukanai/": 1795200437.0191512,
+    "https://rawkuma.net/manga/isekai-toushou-no-maken-seisaku-gurashi/": 1795200442.348255,
+    "https://rawkuma.net/manga/gal-gohan/": 1795200448.6775548,
+    "https://rawkuma.net/manga/outo-no-hazure-no-renkinjutsushi-hazure-shokugyou-datta-no-de-nonbiri-oten-keiei-shimasu/": 1795200453.858735,
+    "https://rawkuma.net/manga/shitsugyou-kenja-no-nariagari-kirawareta-sainou-wa-sekai-saikyou-deshita/": 1795200459.7392251,
+    "https://rawkuma.net/manga/saikai-no-yuusha/": 1795200468.580988,
+    "https://rawkuma.net/manga/rain/": 1795200473.948381,
+    "https://rawkuma.net/manga/sandaime-secret-midou-hen/": 1795200479.821866,
+    "https://rawkuma.net/manga/isekai-de-cheat-skill-o-te-ni-shita-ore-wa-genjitsu-sekai-o-mo-musou-suru-level-up-wa-jinsei-o-kaeta/": 1795200488.4881501,
+    "https://rawkuma.net/manga/watashi-no-koto-wa-douzo-okizukai-naku-kore-made-doori-ni-o-sugoshi-kudasai/": 1795200493.897231,
+    "https://rawkuma.net/manga/your-majesty-please-spare-me-this-time/": 1795200499.8084621,
+    "https://rawkuma.net/manga/gal-to-dungeon-to-shuukai-okure-no-tansaku-eiyuutan-moto-legend-ima-wa-wakeari-tei-rank-tansakushana-ore-ga-s-kyuu-gal-ni-natsukare-makutte-ikusei-wo-makase-sareta/": 1795200504.9163039,
+    "https://rawkuma.net/manga/yurufuwa-nouka-no-mojibake-skill-isekai-de-catalog-tsuuhan-yattemasu/": 1795200510.1769211,
+    "https://rawkuma.net/manga/shinai-naru-boku-e-satsui-o-komete/": 1795200517.866369,
+    "https://rawkuma.net/manga/chiisakute-kawaii-bungeibu-no-chiteki-na-senpai-o-hiza-no-ue-ni-nosetara-mainichi-suwattekuru-you-ni-natta/": 1795200526.058358,
+    "https://rawkuma.net/manga/isekai-kaeri-no-yuusha-wa-dungeon-ga-shutsugen-shita-genjitsu-sekai-de-influencer-natte-kane-wo-kasegimasu/": 1795200534.175082,
+    "https://rawkuma.net/manga/gleipnir/": 1795200543.460557,
+    "https://rawkuma.net/manga/milk-shibori-hunter-no-isekai-sakunyuuki-nouka-no-saenai-otoko-ga-arayuru-shuzoku-no-chiku-b-o-moteasobi-toriko-ni-suru/": 1795200549.3280609,
+    "https://rawkuma.net/manga/kohakushoku-no-kishi-wa-seijo-no-hidarite-ni-ai-wo-chikau/": 1795200556.026882,
+    "https://rawkuma.net/manga/kagaku-teki-ni-sonzai-shiuru-creature-musume-no-kansatsu-nisshi/": 1795200561.488124,
+    "https://rawkuma.net/manga/ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-o-kiwameta-ore-wa-sekai-o-kage-kara-shihai-suru/": 1795200570.678675,
+    "https://rawkuma.net/manga/wakiyaku-kensei-no-sokosoko-heion-na-nichijou-tama-ni-bouken-soshite-eiyuutan/": 1795200576.390271,
+    "https://rawkuma.net/manga/tomo-chan-wa-onnanoko/": 1795200580.932529,
+    "https://rawkuma.net/manga/tensei-shitara-sainou-ga-atta-ken-isekai-itte-mo-douryoku-suru/": 1795200586.07083,
+    "https://rawkuma.net/manga/albert-ke-no-reijou-wa-botsuraku-wo-goshomou-desu/": 1795200595.518573,
+    "https://rawkuma.net/manga/arslan-senki/": 1795200602.009283,
+    "https://rawkuma.net/manga/urasekai-picnic/": 1795200611.257208,
+    "https://rawkuma.net/manga/satou-eiko-32-wa-hero-ni-nareta-no-ka/": 1795200619.415613,
+    "https://rawkuma.net/manga/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story-comic/": 1795200625.109924,
+    "https://rawkuma.net/manga/saikyou-yuusha-no-deshi-ikusei-keikaku/": 1795200630.5063438,
+    "https://rawkuma.net/manga/kenja-no-ishi/": 1795200636.310695,
+    "https://rawkuma.net/manga/ame-to-kimi-to/": 1795200642.828983,
+    "https://rawkuma.net/manga/seijo-ja-nakatta-no-de-oukyuu-de-nonbiri-gohan-wo-tsukuru-koto-ni-shimashita/": 1795200648.391927,
+    "https://rawkuma.net/manga/yuuhei-sareta-oujo-desu-ga-ikinobiru-tame-ni-doryoku-shiteitara-tsuyoku-narisugitemashita-leveling-zuki-gamer-no-isekai-musou/": 1795200653.693253,
+    "https://rawkuma.net/manga/uraniwa-no-doa-isekai-ni-tsunagaru/": 1795200658.671649,
+    "https://rawkuma.net/manga/108p-1-nengo-ni-zettai-108p-suru-hanashi/": 1795200668.5973928
    }
   }
  }
